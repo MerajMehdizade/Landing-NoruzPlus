@@ -12,21 +12,22 @@
 #scroll {
   position: fixed;
   right: 10px;
-  bottom: 10px;
+  bottom: 4px;
   cursor: pointer;
   width: 50px;
   height: 50px;
   border-radius: 60px;
-  z-index: 33;
+  z-index: 444;
   text-align: center;
   line-height: 50px;
-  color: #2ecc70;
+  color: #f15252;
   font-size: 3rem;
 }
 
 a {
   text-decoration: none;
   color: black;
+  outline: none;
 }
 html {
   scroll-behavior: smooth;
@@ -365,7 +366,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 1.2rem;
-  padding: 3rem 0;
+  padding: 3rem 0 6rem 0;
 }
 .service-box div {
   border-right: 1px solid #2ecc70;
@@ -378,4 +379,64 @@ nav {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+footer {
+  position: relative;
+  background: #f5f5f5;
+  padding: 2rem 0 0 0;
+}
+footer:before {
+  background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/grey-grass.svg);
+  content: "";
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  top: -60px;
+  background-repeat: repeat-x;
+  background-position: bottom;
+}
+.footer-details {
+  line-height: 45px;
+  color: #666;
+}
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.social-box {
+  width: 50px;
+  height: 50px;
+  background: #212121;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin: 0 2.5px;
+  font: normal 18px/36px vazir;
+  color: #fff;
+}
+.social-box i {
+  font-size: 1.3rem;
+}
+.social-box:hover {
+  background-color: #2ecc70;
+  transition: ease-in-out 0.15s;
+}
+.footer-bottom {
+  text-align: center;
+  margin-top: 2rem;
+  z-index: 33;
+  position: relative;
+}
+footer:after {
+  background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/white-grass.svg);
+  content: "";
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  background-repeat: repeat-x;
+  background-position: bottom;
 }
