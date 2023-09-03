@@ -145,5 +145,48 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-.product-details {
+
+.product-details-title {
+  font-size: 1.75rem;
+  width: 75%;
+  margin-bottom: 2rem;
+}
+.product-details span {
+  color: #666;
+  text-decoration: line-through;
+}
+.product-price {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+.new-price {
+  color: #f15252;
+  font-size: 1.5rem;
+}
+.discountPercent {
+  background-color: #f15252;
+  padding: 0.3rem 1rem;
+  color: white;
+  border-radius: 100px;
+}
+.product-opation {
+  color: #666;
+  margin-right: 1.2rem;
+}
+.product-price-btn {
+  font: bold 18px/50px diroz;
+  background: #2ecc70;
+  color: #fff;
+  display: flex;
+  gap: 1.2rem;
+  padding: 0 30px;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  margin: 1.5rem auto 0 2rem;
+}
+.product-price-btn:hover {
+  background-color: black;
 }
