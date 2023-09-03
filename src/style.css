@@ -14,7 +14,9 @@ a {
   text-decoration: none;
   color: black;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: diroz;
 }
@@ -144,5 +146,4 @@ nav {
   justify-content: space-between;
 }
 .product-details {
-    
 }
