@@ -15,7 +15,7 @@ a {
   color: black;
 }
 html {
-  scroll-behavior: smooth;
+  scroll-behavior: smooth; 
 }
 body {
   font-family: diroz;
