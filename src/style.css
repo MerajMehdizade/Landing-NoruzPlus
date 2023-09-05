@@ -142,7 +142,7 @@ nav {
   background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/circle.svg);
   display: inline-block;
   vertical-align: middle;
-  margin-right: 20px;
+  margin:0 1rem;
   transform: rotate(180deg);
 }
 .noruzPlusTitle:after {
@@ -152,7 +152,7 @@ nav {
   background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/circle.svg);
   display: inline-block;
   vertical-align: middle;
-  margin-left: 20px;
+  margin:0 1rem;
 }
 .special-offer-content {
   margin-top: 3rem;
