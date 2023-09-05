@@ -142,7 +142,7 @@ nav {
   background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/circle.svg);
   display: inline-block;
   vertical-align: middle;
-  margin:0 1rem;
+  margin: 0 1rem;
   transform: rotate(180deg);
 }
 .noruzPlusTitle:after {
@@ -152,7 +152,7 @@ nav {
   background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/circle.svg);
   display: inline-block;
   vertical-align: middle;
-  margin:0 1rem;
+  margin: 0 1rem;
 }
 .special-offer-content {
   margin-top: 3rem;
@@ -456,7 +456,7 @@ footer:after {
   .container {
     max-width: 740px;
     margin: 0 auto;
-    padding: 0 .75rem;
+    padding: 0 0.75rem;
   }
   .main-header-content {
     flex-direction: column;
@@ -479,4 +479,35 @@ footer:after {
   .product-details {
     width: 80%;
   }
+}
+
+@media screen and (max-width: 576px) {
+  .container {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 0 0.75rem;
+  }
+  .header-right {
+    display: none;
+  }
+  .list {
+    font-size: 0.75rem;
+  }
+  .new-year-message h2 {
+    font-size: 1.3rem;
+  }
+  .special-offer-bg img {
+    width: 400px;
+    height: 300px;
+  }
+  .product-flex {
+    grid-template-columns: repeat(2, calc(49% - 20.5px));
+  }
+  .discountCodes-box{
+    flex-direction: column;
+  }
+  .service-content{
+    justify-content: center;
+  }
+  
 }
