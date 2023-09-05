@@ -509,5 +509,7 @@ footer:after {
   .service-content{
     justify-content: center;
   }
-  
+  .footer-content{
+    text-align: center;
+  }
 }
