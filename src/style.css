@@ -461,4 +461,22 @@ footer:after {
   .main-header-content {
     flex-direction: column;
   }
+  .special-offer-content {
+    flex-direction: column-reverse;
+  }
+  .product-flex {
+    grid-template-columns: repeat(3, calc(33% - 20.5px));
+  }
+  .discountCodes-content {
+    flex-direction: column;
+  }
+  .service-content {
+    flex-wrap: wrap;
+  }
+  .special-offer-bg img {
+    left: -100px;
+  }
+  .product-details {
+    width: 80%;
+  }
 }
