@@ -36,7 +36,7 @@ body {
   font-family: diroz;
 }
 
-Header {
+header {
   position: relative;
   background-color: #f15252;
   background-image: url(https://umx.ir/demo/nowruz-plus/assets/img/pattern.svg);
@@ -44,7 +44,7 @@ Header {
 }
 
 .container {
-  max-width: 1170px;
+  max-width: 1120px;
   margin: 0 auto;
 }
 nav {
@@ -362,6 +362,10 @@ nav {
   background-repeat: repeat-x;
   background-position: bottom;
 }
+.service-content {
+  display: flex;
+  justify-content: space-between;
+}
 .service-box {
   display: flex;
   align-items: center;
@@ -439,4 +443,22 @@ footer:after {
   bottom: 0;
   background-repeat: repeat-x;
   background-position: bottom;
+}
+
+/*--------------------------------------- Responsive --------------------------------------- */
+/* @media screen and (max-width: 992px) {
+  .container {
+    max-width: 955px;
+    margin: 0 auto;
+  }
+} */
+@media screen and (max-width: 990px) {
+  .container {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 0 .75rem;
+  }
+  .main-header-content {
+    flex-direction: column;
+  }
 }
