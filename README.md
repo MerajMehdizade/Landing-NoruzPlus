@@ -4,7 +4,7 @@ This is a single page site, coded in excellent ways
 ### Features of this template :
 <ol>
   <li>Responsive</li>
-  <li>Best Practises</li>
+  <li>Best Practices</li>
   <li>Clean Code</li>
 </ol>
 
