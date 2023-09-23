@@ -4,7 +4,7 @@
 <h3 align="center">Landing Noruz</h3>
 
   <p align="center">
-    A responsive landingPage crafted with Html Css , Perfect for special occasions.
+   A fully responsive template for your special needs ** only Html Css **
     <br />
   </p>
 </div>
