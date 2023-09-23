@@ -12,7 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## How to start the project
-**Run Index.html**
+```
+Run index.html
+```
 
 ## About The Project
 A fully responsive template for your special needs
