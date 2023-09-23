@@ -4,7 +4,7 @@
 <h3 align="center">Landing Noruz</h3>
 
   <p align="center">
-   A fully responsive template for your special needs ** only Html Css **
+   A responsive LandingPage crafted with Html Css , Suitable for special occasions.
     <br />
   </p>
 </div>
@@ -15,7 +15,7 @@
 **Run Index.html**
 
 ## About The Project
-This is a store card that you can use to sell your products on the site
+A fully responsive template for your special needs
 
 ### Features of this template :
 <ol>
