@@ -1,5 +1,21 @@
-# Landing-NoruzPlus
-This is a single page site, coded in excellent ways
+﻿<a id="readme-top"></a>
+
+<div align="center">
+<h3 align="center">Landing Noruz</h3>
+
+  <p align="center">
+    A responsive landingPage crafted with Html Css , Perfect for special occasions.
+    <br />
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+
+## How to start the project
+**Run Index.html**
+
+## About The Project
+This is a store card that you can use to sell your products on the site
 
 ### Features of this template :
 <ol>
@@ -8,17 +24,44 @@ This is a single page site, coded in excellent ways
   <li>Clean Code</li>
 </ol>
 
-### Technologies used :
-<ol>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap Icon</li>
-</ol>
+#### Desktop Design
 
-### Different sections :
+<p align="center">
+  <img src="https://github.com/MerajMehdizade/Landing-NoruzPlus/assets/105376555/da32f86b-74d7-4e58-9cd3-7f9938f4e178" alt="desktop view" width="600"  />
+</p>
 
-![noruzPlus-img](https://github.com/MerajMehdizade/Landing-NoruzPlus/assets/105376555/da32f86b-74d7-4e58-9cd3-7f9938f4e178)
+#### Mobile Design
 
-![noruzPlus-img2](https://github.com/MerajMehdizade/Landing-NoruzPlus/assets/105376555/2bfd33c4-d4eb-4bd2-baba-8df09a22132b)
+<p align="center">
+	<img src="https://github.com/MerajMehdizade/StoreCard/assets/105376555/0d95bf73-2a6b-4c80-beaa-39afc65bb4a0" alt="mobile view" height="500" /> 
+</p>
 
-![noruzPlus-img3](https://github.com/MerajMehdizade/Landing-NoruzPlus/assets/105376555/56efc4b5-77ff-4867-9e56-7952b8b7e80f)
+
+### Built With
+
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+You can give any help to make our work better, **your smallest work is valuable for us**
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- AUTHOR -->
+
+## Author
+
+- Instagram - [@merajmdzz](https://www.instagram.com/merajmdzz/)
+- telegram - [@merajmdzz](https://t.me/merajmdzz)
+- Twitter -[@MerajMdz81881](https://twitter.com/MerajMdz81881)
+
